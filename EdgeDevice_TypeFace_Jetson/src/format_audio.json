@@ -1,0 +1,10 @@
+{
+  "hello": {"text": ["Xin chào {}"], "time": []},
+  "middle_morning": {"text": ["Chúc {} buổi sáng vui vẻ", "Chào buổi sáng {}", "Chào ngày mới {}"], "time":  [[7.5, 9.5]]},
+  "good_lunch": {"text": ["Chúc {} bữa trưa ngon miệng"], "time": [[11.85, 12.25]]},
+
+  "good_sleep_lunch": {"text": ["Chúc {} ngủ ngon"], "time": [[12.25, 12.55]]},
+
+  "good_afternoon": {"text": ["Chúc {} buổi chiều đầy năng lượng", "Chúc {} buổi chiều vui vẻ"], "time":  [[12.9, 14.5]]},
+  "goodbye": {"text": ["Tạm biệt {}", "Hẹn gặp lại {}"], "time":  [[16.45, 24]]}
+}

@@ -1,0 +1,7 @@
+camera: https://192.168.1.47:8080/video
+detector: retina # srcfd_2.5g, srcfd_500m, retina
+fps_tracker: 10  # BoSORT fps tracking
+vis: True
+
+server: 'http://192.168.1.159:8080'
+device: jetson_face
